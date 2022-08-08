@@ -463,7 +463,9 @@ margin-top: 50px;
 }
 
 .footer .box-container .box  img{
-    margin-top: 1rem;
+   
+    height: 10px;
+    width: 90px;
 }
 
 .footer .credit{
